@@ -1,4 +1,4 @@
-# Landing Page Agência XWY
+# Landing Page Agência XYZ
 
 Este projeto é um modelo de **Landing Page** desenvolvido utilizando apenas **HTML e CSS**.
 
